@@ -8,10 +8,10 @@
 
 
 ### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind  
-- **Backend:** Node.js, PHP, Python  
-- **Database:** MySQL, PostgreSQL, Firebase  
-- **Tools:** Git, GitHub, Docker, VS Code, Postman  
+- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS
+- **Backend:** PHP, Python, Node.js, NestJS, RESTful APIs, TypeORM   
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, Postman, Swagger, Arduino Uno
 
 ---
 
