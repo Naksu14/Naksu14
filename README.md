@@ -2,6 +2,7 @@
 🎓 **IT / Full-Stack Developer** from the Philippines 🇵🇭  
 💻 Passionate about building **real-world systems** and learning by doing
 
+---
 
 ### 👨‍💻 About Me
 
@@ -12,6 +13,7 @@
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code, Postman, Swagger, Arduino Uno
 
+---
 
 ### 📫 Connect With Me
 
