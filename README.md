@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Naksu14/Naksu14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Loel M. Campaña
+🎓 **IT / Full-Stack Developer** from the Philippines 🇵🇭  
+💻 Passionate about building **real-world systems** and learning by doing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind  
+- **Backend:** Node.js, PHP, Python  
+- **Database:** MySQL, PostgreSQL, Firebase  
+- **Tools:** Git, GitHub, Docker, VS Code, Postman  
+
+---
+
+### 📫 Connect With Me
+- Facebook: https://www.facebook.com/loelcamp14  
+- Instagram: https://www.instagram.com/kairos.clm/  
+
+---
+
+>  *Build real systems. Learn continuously. Share knowledge.*
