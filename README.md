@@ -16,9 +16,15 @@
 ---
 
 ### 📫 Connect With Me
-- Facebook: https://www.facebook.com/loelcamp14  
-- Instagram: https://www.instagram.com/kairos.clm/  
 
+<p align="left">
+  <a href="https://www.facebook.com/loelcamp14" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/kairos.clm/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 ---
 
 >  *Build real systems. Learn continuously. Share knowledge.*
