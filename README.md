@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi there 👋 I'm Loel M. Campaña
 🎓 **IT / Full-Stack Developer** from the Philippines 🇵🇭  
 💻 Passionate about building **real-world systems** and learning by doing
