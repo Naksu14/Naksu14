@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Loel M. Campaña
-🎓 **IT / Full-Stack Developer** from the Philippines 🇵🇭  
-💻 Passionate about building **real-world systems** and learning by doing
+## Hi, I'm Loel M. Campaña
+🎓 Aspiring Full-Stack Developer from the Philippines 🇵🇭
+💻 Passionate about building end-to-end web systems, from intuitive user interfaces to scalable backends, and learning by doing.
 
 ---
 
