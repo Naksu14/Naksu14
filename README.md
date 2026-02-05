@@ -18,7 +18,7 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://your-portfolio-link.vercel.app" target="_blank">
+  <a href="https://lc-portfolio-rosy.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.facebook.com/loelcamp14" target="_blank">
