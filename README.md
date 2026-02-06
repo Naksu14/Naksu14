@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="61940062362.png" alt="Cover Image" width="100%">
+</p>
+
 ## Hi, I'm Loel M. Campaña
 🎓 Aspiring Full-Stack Developer from the Philippines 🇵🇭
 💻 Passionate about building end-to-end web systems, from intuitive user interfaces to scalable backends, and learning by doing.
