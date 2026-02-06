@@ -3,7 +3,7 @@
 </p>
 
 ## Hi, I'm Loel M. Campaña
-🎓 Aspiring Full-Stack Developer from the Philippines 🇵🇭
+🎓 Aspiring Full-Stack Developer from the Philippines 🇵🇭 <br />
 💻 Passionate about building end-to-end web systems, from intuitive user interfaces to scalable backends, and learning by doing.
 
 ---
@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS
-- **Backend:** PHP, Python, Java, Node.js, NestJS, RESTful APIs, TypeORM   
+- **Backend:** PHP, Python, C++, Java, Node.js, NestJS, RESTful APIs, TypeORM   
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code, Postman, Swagger, Arduino Uno
 
