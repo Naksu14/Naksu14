@@ -22,7 +22,7 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://lc-portfolio-rosy.vercel.app" target="_blank">
+  <a href="https://lc-fullstack-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="www.linkedin.com/in/loel-campaña-4282b5334" target="_blank">
