@@ -1,15 +1,12 @@
-<div align="center" style="position: relative; width: 100%;">
+<div align="center">
 
-  <img src="myBanner.jpg" alt="Banner" width="100%" />
+<img src="myBanner.jpg" width="100%" />
 
-  <div style="
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  ">
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=LOEL+CAMPA%C3%91A;FULL-STACK+DEVELOPER;WEB+SYSTEM+DEVELOPER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=LOEL+CAMPA%C3%91A;FULL-STACK+DEVELOPER;WEB+SYSTEM+DEVELOPER" />
+
+</div>
 
   </div>
 </div>
