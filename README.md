@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=LOEL%20CAMPAÑA&fontSize=70&animation=typing" alt="Typing Banner" />
+  <img src="myBanner.jpg?type=soft&color=auto&height=300&section=header&text=LOEL%20CAMPAÑA&fontSize=70&animation=typing" alt="Typing Banner" />
 </p>
 
 ## Hi, I'm Loel M. Campaña
