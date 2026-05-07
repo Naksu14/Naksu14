@@ -32,6 +32,25 @@
 
 ---
 
+## 🌐 Networking & System Administration
+- Basic Network Configuration  
+- IP Addressing & Subnetting  
+- VLAN Basic Configuration  
+- Router & Switch Setup  
+- LAN/WAN Troubleshooting  
+- RAID Configuration & Storage Setup  
+- Basic Server Setup & Maintenance  
+
+---
+
+## 🖥️ Hardware & Technical Support
+- Computer Reformatting & OS Installation  
+- Hardware Troubleshooting  
+- PC Assembly & Maintenance  
+- Driver Installation & System Setup  
+- Basic Laptop/Desktop Repair  
+- Peripheral Device Setup & Configuration
+  
 ### 📫 Connect With Me
 
 <p align="left">
