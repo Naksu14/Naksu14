@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="myBanner.jpg?type=soft&color=auto&height=300&section=header&text=LOEL%20CAMPAÑA&fontSize=70&animation=typing" alt="Typing Banner" />
+  <img src="banner.svg" alt="Loel Campaña Banner" width="100%">
 </p>
 
 ## Hi, I'm Loel M. Campaña
