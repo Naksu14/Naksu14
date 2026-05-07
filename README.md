@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Loel Campaña Banner" width="100%">
+  <img src="banner.svg?v=1" alt="Loel Campaña Banner" width="100%">
 </p>
 
 ## Hi, I'm Loel M. Campaña
