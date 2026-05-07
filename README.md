@@ -9,7 +9,7 @@
     transform: translate(-50%, -50%);
   ">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=LOEL+CAMPA%C3%91A;FULL-STACK+DEVELOPER;WEB+SYSTEM+DEVELOPER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=LOEL+CAMPA%C3%91A;FULL-STACK+DEVELOPER;WEB+SYSTEM+DEVELOPER;IT+SUPPORT; ;NETWORK+TROUBLESHOOTING;" />
 
   </div>
 </div>
